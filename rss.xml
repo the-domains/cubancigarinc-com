@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cubancigarinc.com]]></title>
+        <description><![CDATA[cubancigarinc.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 21:10:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkTdIDwB_p4WofVFB9nrgPXdXaf97PIlGHZJCQYfsLRPqgSxf_mg">]]></description>
+            <link>undefined7f307f1e-478c-4d10-b25f-ba857428a6ba/index.html</link>
+            <guid isPermaLink="false">7f307f1e-478c-4d10-b25f-ba857428a6ba</guid>
+            <pubDate>Wed, 16 Dec 2015 21:10:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
