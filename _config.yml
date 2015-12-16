@@ -1,7 +1,7 @@
 name: cubancigarinc.com
 favicon: null
-layout_spectrum: 0.6346927371341735
-typography_spectrum: 0.814062062650919
+layout_spectrum: 0.24938
+typography_spectrum: 0.74904
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#035f81'
+    - '#337d99'
+    - '#b2ced7'
+    - '#609ab0'
   brandStrength: 0.4294909117743373
   lightness: 0.2819546638056636
   saturation: 0.2269104707520455
